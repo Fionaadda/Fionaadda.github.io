@@ -7,7 +7,7 @@
 
 #kground{
 	background: url(images/sly.jpg);
-	background-repeat: no-repeat;
+	background-repeat:repeat;
 	background-size: cover;
 	overflow-y: auto;
 	background-position: center;
